@@ -1,7 +1,7 @@
--------
-Layout : page
-Title : About Me
--------
+---
+layout: page
+title: About Me
+---
 
 I've been a Tester for 11 years.
 
