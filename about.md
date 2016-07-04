@@ -12,4 +12,4 @@ I've been working as a tester for 11 years.  I've started this blog to help with
 
 ### Contact me
 
-[kev36663@gmail.com.com](mailto:kev36663@gmail.com)
+[kev36663@gmail.com](mailto:kev36663@gmail.com)
