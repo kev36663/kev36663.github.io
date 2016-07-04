@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+System Tester with 11 Years Experience
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I've been working as a tester for 11 years.  I've started this blog to help with knowledge share and to blog out a journey as I learn new skills.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kev36663@gmail.com.com](mailto:kev36663@gmail.com)
