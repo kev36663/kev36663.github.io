@@ -1,3 +1,8 @@
+-------
+Layout : page
+Title : About Me
+-------
+
 I've been a Tester for 11 years.
 
 Like many who have a career in testing, it's something I came into by accident.  I don't regret it, I'm quite good at it.
