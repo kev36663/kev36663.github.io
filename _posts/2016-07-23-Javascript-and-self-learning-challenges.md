@@ -27,20 +27,27 @@ So. Personally my problem is wanting to move quickly.  There is nothing wrong wi
 My approach was to try to fit in an hour-or-two when I could.   I am not saying this is the best approach. It lacks any form of structure or commitment.  But then I did think... well, lets apply this to testing.  You may use a framework like v-model, which is structured and formal - it has it's advantages and disadvantages.  It's not a one-size-fits-all-solution.  But, you may use a variety of exploratory techniques, which are more free and without structure. Again, not a one-size-fits-all-solution and your final approach may be a mixture of these or many.  So, this is what I wanted to make work for me.
 
 But, it can sometimes get difficult.  The challenge in this approach can be if it starts to get a few days between sitting down to look at learning.  That you open it up and it's a refresher exercise and you suddenly feel you've forgotten everything. (Until the penny clicks!)
+
 An anology I'll use is going to the gym.  You tell yourself you're going 2-3 times a week and then you start missing sessions - perhaps one day you're not feeling up for it, another day you're just too busy, it's a sunny day and your friend invites you to a beer garden and you haven't been in a fortnight and then you go and it suddenly feels a lot harder and that can put you off.
+
 This did happen to me, I was going to the gym 2-3 times a week in my lunch break to improve fitness - I missed a few session with a cold, got back into it (hard at first), missed a few sessions with an ankle injury (very hard to get back into that) and then eventually the interest waned.  In my gym case though, this wasn't an issue - there was no real overall purpose to it.  Similar could happen with my learning and this would be an issue because I want to improve myself and don't want to look back and regret not learning skills when I had the chance.
 
 ![alt text](https://kev36663.github.io/images/regerts.jpg "I bet he regrets this tattoo - haha")
 
 So, at first - I was coding almost every day. Possibly about an hour each time, mostly at home. Which started quite well.  But then of course social life got busier and workloads got busier so time became less available. I'd gone from getting a "Keep it up - you've coded 3 days in a row" achievement, to not doing anything in about 5 days and starting to worry myself if I'd ever pick it up.
 I was probably stressing too much, but, it did feel like a long 5 days...  I started to try to think of things to help keep me motivated.
+
 One advantage I have is that my friend, Rosie, is helping mentor me and so I would feel my failure is letting her down.  That is a big driving factor.  But, not everyone who wants to learn has that advantage or encouragement.
 I was in a progress meeting the other day and one of my co-workers gave a sizing for regression testing on his project, I am familiar-ish with his project and thought to myself that, yes - that is correct from a manual perspective, but, if automation was used during the sprints it would have reduced some of the sprint times (or rather, granted more time for exploratory or other testing) and would mean there should now be regression scripts that may be able to be ran in a considerably shorter time frame.
+
 This in itself was a form of encouragement and motivation, because having those skills could have brought more value to the company. Mind, it wasn't my project - but that's not the point, me identifying a time (and ergo cost) saving to a project, is an inspiration as it ultimately makes me more useful.
+
 So, I think sometimes with learning and falling down a bit it is important to remember why you are learning and what you want to get out of it.  Some people can learn just use the want for learning, some can learn for fun, some need an end point.  If you need an end point, sometimes it can be difficult. "How is this going to help me?", "What do I get out of it?", etc. and so it's important to keep finding things you will get out of it.
 
 It's important not to beat yourself too much for slippage.  This doesn't do anything about your lost progress, makes you feel bad and puts extra pressure on you when you do pick it back up.  It is OK to take a night off to watch TV, socialise with friends, play computer games, whatever.  It is OK to fall behind, just as long as you remember in yourself why you started in the first place and the inspiration to pick it back up.
+
 It is harder for some people, I remember discussing self-learning with somebody and I said I'd been looking at different languages, "Do you have kids?" he asked me, "I'd love to be able to do that - but my kids take my time".
+
 Which, I do have empathy for - I don't have children but I do have a lot of out of work hobbies which can be time consuming and are important to me.
 With the challenges I had on the Javascript course my message to him, anyone else and a reminder to myself would be - this is self-development, there is no time limit. Do not beat yourself up. If you want to do it - an hour here or there, at your own pace, when you have time is completely fine. It is not a sprint finish, you can take as long as is needed and you will learn bits and pieces.  Sure, it may be harder to pick back up after a break - but - remember why you wanted to learn new skills in the first place and look for little reminders and inspiration.
 
