@@ -11,7 +11,7 @@ So, the course itself was fine.  The usual situation that most of my problems we
 
 But of course, a minor giggle when I noticed a set of the course chapters were Camille Yarbrough lyrics from "Take yo' Praise" (probably made a lot more famous by Fatboy Slim, who sampled this in 'Praise You')
 
-![alt text](https://kev36663.github.io/blob/master/images/praiseyou.jpg "Like I should-d-d-d-d-d-d")
+![alt text](https://kev36663.github.io/images/praiseyou.jpg "Like I should-d-d-d-d-d-d")
 
 Anyway.  Some of the other courses I've done had been around 2-3 hours in estimated time and at the time I was off work with some annual leave and so the thought of ploughing through in one go was not off-putting.
 
@@ -30,7 +30,7 @@ But, it can sometimes get difficult.  The challenge in this approach can be if i
 An anology I'll use is going to the gym.  You tell yourself you're going 2-3 times a week and then you start missing sessions - perhaps one day you're not feeling up for it, another day you're just too busy, it's a sunny day and your friend invites you to a beer garden and you haven't been in a fortnight and then you go and it suddenly feels a lot harder and that can put you off.
 This did happen to me, I was going to the gym 2-3 times a week in my lunch break to improve fitness - I missed a few session with a cold, got back into it (hard at first), missed a few sessions with an ankle injury (very hard to get back into that) and then eventually the interest waned.  In my gym case though, this wasn't an issue - there was no real overall purpose to it.  Similar could happen with my learning and this would be an issue because I want to improve myself and don't want to look back and regret not learning skills when I had the chance.
 
-![alt text](https://kev36663/kev36663.github.io/blob/master/images/regerts.jpg "I bet he regrets this tattoo - haha")
+![alt text](https://kev36663.github.io/images/regerts.jpg "I bet he regrets this tattoo - haha")
 
 So, at first - I was coding almost every day. Possibly about an hour each time, mostly at home. Which started quite well.  But then of course social life got busier and workloads got busier so time became less available. I'd gone from getting a "Keep it up - you've coded 3 days in a row" achievement, to not doing anything in about 5 days and starting to worry myself if I'd ever pick it up.
 I was probably stressing too much, but, it did feel like a long 5 days...  I started to try to think of things to help keep me motivated.
@@ -50,6 +50,6 @@ I think that may be an idea moving forwards if I struggle again.
 
 Anyway.  Introduction to Javascript.... achievement unlocked.
 
-![alt text](https://kev36663.github.io/blob/master/images/javafinish.jpg "Sweet Progress")
+![alt text](https://kev36663.github.io/images/javafinish.jpg "Sweet Progress")
 
 
