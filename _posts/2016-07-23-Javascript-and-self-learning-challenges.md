@@ -11,7 +11,7 @@ So, the course itself was fine.  The usual situation that most of my problems we
 
 But of course, a minor giggle when I noticed a set of the course chapters were Camille Yarbrough lyrics from "Take yo' Praise" (probably made a lot more famous by Fatboy Slim, who sampled this in 'Praise You')
 
-![alt text](https://github.com/kev36663/kev36663.github.io/blob/master/images/praiseyou.jpg "Like I should-d-d-d-d-d-d")
+![alt text](https://kev36663.github.io/blob/master/images/praiseyou.jpg "Like I should-d-d-d-d-d-d")
 
 Anyway.  Some of the other courses I've done had been around 2-3 hours in estimated time and at the time I was off work with some annual leave and so the thought of ploughing through in one go was not off-putting.
 
